@@ -1,4 +1,4 @@
-# basicblocnetworkingapp
+# basic_bloc_networking_app
 
 A simple app that demostrate bloc+ networking flow
 
